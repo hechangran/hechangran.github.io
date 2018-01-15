@@ -126,13 +126,11 @@ How to set Latex support:
 
 
 A group of $N$ Euler Lagrange systems are described by the following dynamic equation
-$$
-{{M}_{i}}({{q}_{i}}){{\ddot{q}}_{i}}+{{C}_{i}}({{q}_{i}},{{\dot{q}}_{i}}){{\dot{q}}_{i}}+{{G}_{i}}({{q}_{i}})={{\tau }_{i}},\text{ }i=1, \cdots, N
-\end{equation}
+$${{M}_{i}}({{q}_{i}}){{\ddot{q}}_{i}}+{{C}_{i}}({{q}_{i}},{{\dot{q}}_{i}}){{\dot{q}}_{i}}+{{G}_{i}}({{q}_{i}})={{\tau }_{i}},\text{ }i=1, \cdots, N$$
+
 where $q_{i}=col(q_{i1}, q_{i2})$ and
- \scriptsize{\begin{equation*}
- 	\begin{split}
-	{{M}_{i}}({{q}_{i}})&=\left[ \begin{matrix}
+
+	$${{M}_{i}}({{q}_{i}})&=\left[ \begin{matrix}
 	{{\theta }_{i1}}+2{{\theta }_{i2}}\cos ({{q}_{i(2)}} )& {{\theta }_{i3}}+{{\theta }_{i2}}\cos ({{q}_{i(2)}})  \\
 	{{\theta }_{i3}}+{{\theta }_{i2}}\cos ({{q}_{i(2)}}) & {{\theta }_{i3}}  \\
 	\end{matrix} \right], \notag\\
@@ -147,5 +145,4 @@ where $q_{i}=col(q_{i1}, q_{i2})$ and
 	{{\tau }_{i}}&=\left[ \begin{matrix}
 	{{\tau }_{i(1)}}  \\
 	{{\tau }_{i(2)}}  \\
-	\end{matrix} \right],
-$$
+	\end{matrix} \right]$$
