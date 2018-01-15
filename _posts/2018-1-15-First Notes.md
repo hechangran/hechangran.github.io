@@ -42,7 +42,7 @@ Email address:
 
 ## 插图
 方法一：
-![pic1](https://ws1.sinaimg.cn/large/44ba9bf8gy1fnhlgcs9jij23v92kyb2j.jpg "叉烧")
+![pic1](![](https://ws1.sinaimg.cn/mw690/44ba9bf8gy1fnhnmhlfm6j23v92kyb2j.jpg) "叉烧")
 
 
 ---
@@ -78,6 +78,7 @@ Item       | 价格      |备注
 >     1st class Sample code;
 
 插入代码：
+
     #include <stdio.h>
     int main(void)
     {
