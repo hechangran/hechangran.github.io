@@ -44,7 +44,8 @@ Email address:
 
 ## 插图：
 方法一：
-![图1](http://4493bz.1985t.com/uploads/allimg/171227/5-1G22G03Z6.jpg "紫罗兰永恒花园")
+
+![pic1](https://1drv.ms/i/s!ApP7bZhXYSnogZ5Zhs9Y_jGeRhjIhA "叉烧")
 
 ---
 ## 购物车：
@@ -66,7 +67,6 @@ Item       | 价格      |备注
 ## 使用技巧
 
 > 1. Atom编辑器内置了git，可以直接commit和push。
-
 > 2. 好像没发现快捷键push.
 
 ---
