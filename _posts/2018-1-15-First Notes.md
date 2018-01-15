@@ -114,7 +114,8 @@ Markdown
 ## Latex equation
 $V=\frac{1}{2}x^{T}x$
 
-$$ A\Otimes B \label{eq1}$$
+$$ \frac{A}{B}
+ \label{eq1}$$
 
 Try cross reference \ref{eq1}.
 
