@@ -18,6 +18,9 @@ tags:
 
 [本站地址](https://hechangran.github.io/ "Page")
 
+本网站搭建参考资料：
+<https://www.jianshu.com/p/e68fba58f75c>
+
 Email address:
 <hechangran@163.com>
 
