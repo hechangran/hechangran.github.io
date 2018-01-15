@@ -126,23 +126,5 @@ How to set Latex support:
 
 
 A group of $N$ Euler Lagrange systems are described by the following dynamic equation
-$${{M}_{i}}({{q}_{i}}){{\ddot{q}}_{i}}+{{C}_{i}}({{q}_{i}},{{\dot{q}}_{i}}){{\dot{q}}_{i}}+{{G}_{i}}({{q}_{i}})={{\tau }_{i}},\text{ }i=1, \cdots, N$$
-
+$${{M}_{i}}({{q}_{i}}){{\ddot{q}}_{i}}+{{C}_{i}}({{q}_{i}},{{\dot{q}}_{i}}){{\dot{q}}_{i}}+{{G}_{i}}({{q}_{i}})={{\tau }_{i}}$$,
 where $q_{i}=col(q_{i1}, q_{i2})$ and
-
-	$${{M}_{i}}({{q}_{i}})&=\left[ \begin{matrix}
-	{{\theta }_{i1}}+2{{\theta }_{i2}}\cos ({{q}_{i(2)}} )& {{\theta }_{i3}}+{{\theta }_{i2}}\cos ({{q}_{i(2)}})  \\
-	{{\theta }_{i3}}+{{\theta }_{i2}}\cos ({{q}_{i(2)}}) & {{\theta }_{i3}}  \\
-	\end{matrix} \right], \notag\\
-	{{C}_{i}}({{q}_{i}},{{{\dot{q}}}_{i}})&=\left[ \begin{matrix}
-	-{{\theta }_{i2}}\sin ({{{{q}}}_{i(2)}}){{{\dot{q}}}_{i(2)}} & -{{\theta }_{i2}}\sin ({{{{q}}}_{i(2)}})({{{\dot{q}}}_{i(1)}}+{{{\dot{q}}}_{i(2)}})  \\
-	{{\theta }_{i2}}\sin ({{{{q}}}_{i(2)}}){{{\dot{q}}}_{i(1)}} & 0  \\
-	\end{matrix} \right], \notag\\
-	{{G}_{i}}({{q}_{i}})&=\left[ \begin{matrix}
-	{{\theta }_{i4}}g\cos ({{q}_{i(1)}})+{{\theta }_{i5}}g\cos ({{q}_{i(1)}}+{{q}_{i(2)}})  \\
-	{{\theta }_{i5}}g\cos ({{q}_{i(1)}}+{{q}_{i(2)}})  \\
-	\end{matrix} \right],\notag \\
-	{{\tau }_{i}}&=\left[ \begin{matrix}
-	{{\tau }_{i(1)}}  \\
-	{{\tau }_{i(2)}}  \\
-	\end{matrix} \right]$$
