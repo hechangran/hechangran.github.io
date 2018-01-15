@@ -61,12 +61,12 @@ disqus_username: hechangran
 
 # Gitalk
 gitalk:
-  enable: flase    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4   #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d  #同上
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  enable: true    #是否开启Gitalk评论
+  clientID: 48e6427d3f96be867be7   #生成的clientID
+  clientSecret: 4bdc55ab9c203db728bba53d4eb610ccd04e8a68  #同上
+  repo: hechangran.github.io    #仓库名称
+  owner: hechangran    #github用户名
+  admin: hecahngran
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
