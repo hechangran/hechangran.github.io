@@ -112,4 +112,7 @@ Markdown
 
 ---
 ## Latex equation
-test $x+1$
+test $ J(x) = \int{L(t, x, \dot{x}) dt} \$
+
+How to set Latex support:
+<http://csega.github.io/mypost/2017/03/28/how-to-set-up-mathjax-on-jekyll-and-github-properly.html>
