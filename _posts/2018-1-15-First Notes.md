@@ -40,13 +40,13 @@ Email address:
 
 ---
 
-## 插图：
+## 插图
 方法一：
 ![pic1](https://ws1.sinaimg.cn/large/44ba9bf8gy1fnhlgcs9jij23v92kyb2j.jpg "叉烧")
 
 
 ---
-## 购物车：
+## 购物车
 
 Item       | 价格      |备注
 :--------  | :---:     | :---:
@@ -54,7 +54,7 @@ Item       | 价格      |备注
  Creative建筑    | $1200 | 貌似停产
 
 ---
-## To-do List:
+## To-do List
 1.  Research Proposal:
     > 1. Review.
     > 2. Put EL in.
@@ -122,3 +122,31 @@ Try cross reference \ref{eq1}.
 
 How to set Latex support:
 <http://csega.github.io/mypost/2017/03/28/how-to-set-up-mathjax-on-jekyll-and-github-properly.html>
+
+
+
+A group of $N$ Euler Lagrange systems are described by the following dynamic equation
+\begin{equation}\label{system}
+{{M}_{i}}({{q}_{i}}){{\ddot{q}}_{i}}+{{C}_{i}}({{q}_{i}},{{\dot{q}}_{i}}){{\dot{q}}_{i}}+{{G}_{i}}({{q}_{i}})={{\tau }_{i}},\text{ }i=1, \cdots, N
+\end{equation}
+where $q_{i}=col(q_{i1}, q_{i2})$ and
+ \scriptsize{\begin{equation*}
+ 	\begin{split}
+	{{M}_{i}}({{q}_{i}})&=\left[ \begin{matrix}
+	{{\theta }_{i1}}+2{{\theta }_{i2}}\cos ({{q}_{i(2)}} )& {{\theta }_{i3}}+{{\theta }_{i2}}\cos ({{q}_{i(2)}})  \\
+	{{\theta }_{i3}}+{{\theta }_{i2}}\cos ({{q}_{i(2)}}) & {{\theta }_{i3}}  \\
+	\end{matrix} \right], \notag\\
+	{{C}_{i}}({{q}_{i}},{{{\dot{q}}}_{i}})&=\left[ \begin{matrix}
+	-{{\theta }_{i2}}\sin ({{{{q}}}_{i(2)}}){{{\dot{q}}}_{i(2)}} & -{{\theta }_{i2}}\sin ({{{{q}}}_{i(2)}})({{{\dot{q}}}_{i(1)}}+{{{\dot{q}}}_{i(2)}})  \\
+	{{\theta }_{i2}}\sin ({{{{q}}}_{i(2)}}){{{\dot{q}}}_{i(1)}} & 0  \\
+	\end{matrix} \right], \notag\\
+	{{G}_{i}}({{q}_{i}})&=\left[ \begin{matrix}
+	{{\theta }_{i4}}g\cos ({{q}_{i(1)}})+{{\theta }_{i5}}g\cos ({{q}_{i(1)}}+{{q}_{i(2)}})  \\
+	{{\theta }_{i5}}g\cos ({{q}_{i(1)}}+{{q}_{i(2)}})  \\
+	\end{matrix} \right],\notag \\
+	{{\tau }_{i}}&=\left[ \begin{matrix}
+	{{\tau }_{i(1)}}  \\
+	{{\tau }_{i(2)}}  \\
+	\end{matrix} \right],
+	\end{split}
+	\end{equation*}}
