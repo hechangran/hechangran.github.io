@@ -7,7 +7,8 @@ author:     hechangran
 header-img:
 catalog: true
 tags:
-    - Syntax, - Markdown
+    - Syntax
+    - Markdown
 ---
 
 # it-is-clear-that
