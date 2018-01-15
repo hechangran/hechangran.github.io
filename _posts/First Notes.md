@@ -10,12 +10,6 @@ tags:
     - Syntax
 ---
 
-
-
-
-![Marcus'Buchecha'Almeida - 现任IBJJF绝对冠军。这家伙很坚强，相信我！图片由BJJ Pix的William Burkhardt提供  。](http://mjrnxewya3t1in23ybpwjw59.wpengine.netdna-cdn.com/wp-content/uploads/buchecha-marcus-almeida-roger-gracie.jpg)
-
-
 # it-is-clear-that
 
 ## 基本信息
