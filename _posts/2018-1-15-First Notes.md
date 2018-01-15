@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      Notes
+title:      Markdown学习笔记
 subtitle:   Some syntax of Markdown
 date:       2018-01-04
 author:     hechangran
 header-img:
 catalog: true
 tags:
-    - Syntax
+    - Syntax, - Markdown
 ---
 
 # it-is-clear-that
@@ -114,8 +114,7 @@ Markdown
 ## Latex equation
 $V=\frac{1}{2}x^{T}x$
 
-$$ \frac{A}{B}
- \label{eq1}$$
+$$ \frac{A}{B} \label{eq1}$$
 
 Try cross reference \ref{eq1}.
 
