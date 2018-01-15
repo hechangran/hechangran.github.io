@@ -63,7 +63,7 @@ disqus_username: hechangran
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 48e6427d3f96be867be7   #生成的clientID
-  clientSecret: 4bdc55ab9c203db728bba53d4eb610ccd04e8a68  #同上
+  clientSecret: 8906e1873a8d5520dde746a5d0902925d9a82d50  #同上
   repo: hechangran.github.io    #仓库名称
   owner: hechangran    #github用户名
   admin: hechangran
@@ -99,16 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Google Scholar",
+        href: "https://scholar.google.com.hk/schhp?hl=zh-CN"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Bilibili",
+        href: "https://www.bilibili.com/"
     }
 ]
