@@ -42,7 +42,7 @@ Email address:
 
 ## 插图
 方法一：
-![pic1](https://ws1.sinaimg.cn/mw690/44ba9bf8gy1fnhnmhlfm6j23v92kyb2j.jpg) "叉烧")
+![pic1](https://ws1.sinaimg.cn/mw690/44ba9bf8gy1fnhnmhlfm6j23v92kyb2j.jpg "叉烧")
 
 
 ---
