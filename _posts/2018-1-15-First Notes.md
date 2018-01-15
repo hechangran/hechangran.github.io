@@ -13,9 +13,9 @@ tags:
 # it-is-clear-that
 
 ## 基本信息
-<https://hechangran.github.io/it-is-clear-that>
+<https://hechangran.github.io/>
 
-[本站地址](https://hechangran.github.io/it-is-clear-that/ "Page")
+[本站地址](https://hechangran.github.io/ "Page")
 
 Email address:
 <hechangran@163.com>
@@ -112,3 +112,4 @@ Markdown
 
 ---
 ## Latex equation
+test $x+1$
