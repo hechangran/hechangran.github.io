@@ -114,6 +114,9 @@ Markdown
 ## Latex equation
 $V=\frac{1}{2}x^{T}x$
 
+$$ A\Otimes B \label{eq1}$$
+
+Try cross reference \ref{eq1}.
 
 How to set Latex support:
 <http://csega.github.io/mypost/2017/03/28/how-to-set-up-mathjax-on-jekyll-and-github-properly.html>
