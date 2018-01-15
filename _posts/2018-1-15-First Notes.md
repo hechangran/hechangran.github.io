@@ -11,8 +11,6 @@ tags:
     - Markdown
 ---
 
-# it-is-clear-that
-
 ## 基本信息
 <https://hechangran.github.io/>
 
