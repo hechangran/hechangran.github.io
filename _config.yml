@@ -66,7 +66,7 @@ gitalk:
   clientSecret: 4bdc55ab9c203db728bba53d4eb610ccd04e8a68  #同上
   repo: hechangran.github.io    #仓库名称
   owner: hechangran    #github用户名
-  admin: hecahngran
+  admin: hechangran
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
