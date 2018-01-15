@@ -42,10 +42,6 @@ Email address:
 方法一：
 ![图1](http://4493bz.1985t.com/uploads/allimg/171227/5-1G22G03Z6.jpg "紫罗兰永恒花园")
 
-方法二：
-![图2][3]
-[3]:  http://4493bz.1985t.com/uploads/allimg/171227/5-1G22G03Z6.jpg "紫罗兰永恒花园"
-
 ---
 ## 购物车：
 
