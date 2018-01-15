@@ -126,7 +126,7 @@ How to set Latex support:
 
 
 A group of $N$ Euler Lagrange systems are described by the following dynamic equation
-\begin{equation}\label{system}
+$$
 {{M}_{i}}({{q}_{i}}){{\ddot{q}}_{i}}+{{C}_{i}}({{q}_{i}},{{\dot{q}}_{i}}){{\dot{q}}_{i}}+{{G}_{i}}({{q}_{i}})={{\tau }_{i}},\text{ }i=1, \cdots, N
 \end{equation}
 where $q_{i}=col(q_{i1}, q_{i2})$ and
@@ -148,5 +148,4 @@ where $q_{i}=col(q_{i1}, q_{i2})$ and
 	{{\tau }_{i(1)}}  \\
 	{{\tau }_{i(2)}}  \\
 	\end{matrix} \right],
-	\end{split}
-	\end{equation*}}
+$$
