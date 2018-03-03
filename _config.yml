@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
+        title: "Poon的网站",
+        href: "https://poonchingai.github.io/"
+    },{
         title: "Google Scholar",
         href: "https://scholar.google.com.hk/schhp?hl=zh-CN"
-    },{
-        title: "Bilibili",
-        href: "https://www.bilibili.com/"
     }
 ]
