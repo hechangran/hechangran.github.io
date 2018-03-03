@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Poon的网站",
+        title: "Poon",
         href: "https://poonchingai.github.io/"
     },{
         title: "Google Scholar",
