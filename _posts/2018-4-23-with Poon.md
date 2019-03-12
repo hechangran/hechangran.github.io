@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      今天是跟潘紫霓在一起的第500天~
+title:      今天是跟Poon在一起的第500天~
 subtitle:   我的咕最s了~~~~~
 date:       2018-04-23
 author:     hechangran
