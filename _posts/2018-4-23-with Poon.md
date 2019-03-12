@@ -13,16 +13,15 @@ tags:
 
 不知不觉已经500天了~
 
-我的潘紫霓还是那么可爱~~
+我的Poon还是那么可爱~~
 
-最喜欢我的潘紫霓(咕噜猪)了~~~
+最喜欢我的Poon(咕噜猪)了~~~
 
 快看
 
+![4.jpg](https://storage.live.com/items/E8296157986DFB93!79912?authkey=AH5BGF0bMKCsU8A)
 
-![](http://ww1.sinaimg.cn/mw690/44ba9bf8gy1fqmzjflkfqj23v92kynpp.jpg)
-
-![](http://ww1.sinaimg.cn/mw690/44ba9bf8gy1fqmzk59q4vj23v92kyb2k.jpg)
+![5.jpg](https://storage.live.com/items/E8296157986DFB93!79913?authkey=AH5BGF0bMKCsU8A)
 
 
 
