@@ -3,8 +3,8 @@ title: Log
 SEOTitle: 咕
 header-img: img/background.jpg
 email: hechangran@163.com
-description: "Felis lybica"
-keyword: Barbalta, Lyapunov"
+description: "null"
+keyword: Barbalat, Lyapunov"
 url: "hechangran.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hechangran/hechangran.github.io.git" # you code repository
@@ -19,7 +19,7 @@ sidebar-avatar: /img/avatar-hcr.jpg      # use absolute URL, seeing it's used in
 # SNS settings
 RSS: false
 # weibo_username:
-zhihu_username:     hechangran
+# zhihu_username:     hechangran
 github_username:    hechangran
 #facebook_username:
 #jianshu_username:
@@ -101,8 +101,9 @@ friends: [
     {
         title: "Poon",
         href: "https://poonchingai.github.io/"
-    },{
-        title: "Google Scholar",
-        href: "https://scholar.google.com.hk/schhp?hl=zh-CN"
-    }
+    },
+    # {
+    #     title: "Google Scholar",
+    #     href: "https://scholar.google.com.hk/schhp?hl=zh-CN"
+    # }
 ]
