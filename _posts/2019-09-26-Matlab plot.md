@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      在Matlab画数据点很多的图无法正确导出.eds矢量文件
+title:      在Matlab画数据点很多的图无法正确导出.eps矢量文件
 subtitle:   解决方案
 date:       2019-09-26
 author:     hechangran
